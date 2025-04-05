@@ -8,6 +8,7 @@ This project aims to analyze mental health-related data to build predictive mode
 - **Data Analysis**: Perform data exploration and cleaning, visualizing insights that can help understand trends and relationships in the data.
 - **Machine Learning**: Implement machine learning algorithms to predict mental health conditions, improving accuracy over time through model tuning.
 
+You can view the Kaggle competition details here: Kaggle - Podcast Listening Time Prediction
 ## Key Highlights
 
 - **Data Exploration**: Process and visualize mental health data to extract meaningful insights.
@@ -80,6 +81,11 @@ For any questions or further assistance, feel free to open an issue on the GitHu
 markdown
 Copy
 
+### Kaggle Competition
+As part of the global collaboration, the project was shared and competed in a Kaggle competition. The model ranked in the top 10% based on its accuracy, allowing for valuable community feedback and further optimizations.
+### You can view the Kaggle competition details here: Kaggle - Podcast Listening Time Prediction
+
+
 ### Explanation of Sections:
 
 1. **Objective**: Describes the goal of the project, including prediction and analysis.
@@ -90,6 +96,7 @@ Copy
 6. **License**: Specifies that the project is licensed under the MIT License.
 
 If you have any specific details you want to add based on your notebook's content, feel free to modify the sections accordingly. Let me know if you need help with that! &#8203;:contentReference[oaicite:0]{index=0}&#8203;
+
 
 
 
